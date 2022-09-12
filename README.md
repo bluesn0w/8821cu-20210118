@@ -1,3 +1,6 @@
+Be aware this is just a personal fork so i dont lose the driver. Nothing is change so would work to use this version. But its highly recommended to use the original version found at https://github.com/morrownr/8821cu-20210118 .
+
+
 -----
 
 #### Click [here](https://github.com/morrownr/USB-WiFi) for USB WiFi Adapter Information for Linux
